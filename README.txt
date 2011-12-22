@@ -1,0 +1,1 @@
+Blank Wordpress Theme to use for any wordpress project
